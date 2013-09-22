@@ -1,4 +1,4 @@
 Smoker
 ======
 
-Code to for my home made smoker
+Code for my home made smoker
